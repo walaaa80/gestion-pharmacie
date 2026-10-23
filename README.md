@@ -2,7 +2,7 @@
 
 Application de gestion d'officine développée en **Java**, avec une interface graphique **JavaFX**, une version **console** et une base **Oracle**. Elle couvre la vente, le suivi du stock, le réapprovisionnement et la traçabilité des mouvements, avec deux rôles : **pharmacien** et **gestionnaire**.
 
-> Projet réalisé par **Tasnim Abid** et **Wala Ouaili** — classe IOT2, FST (Université de Tunis El Manar), janvier 2026.
+> Projet réalisé par **Tasnim Abid** et **Wala Ouaili** : classe IOT2, FST (Université de Tunis El Manar), janvier 2026.
 > Le rapport complet est dans [`docs/rapport-projet.pdf`](docs/rapport-projet.pdf).
 
 ## Fonctionnalités
